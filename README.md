@@ -2,7 +2,7 @@
 
 42sh Epitech final year project
 
-Grade : 1
+Grade : A
 
 	42SH NAME
 	42sh - Shell for ninja developers
