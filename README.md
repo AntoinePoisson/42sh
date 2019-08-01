@@ -2,6 +2,12 @@
 
 42sh Epitech final year project
 
+Usage:
+
+```console
+./42sh
+```
+
 Grade : A
 
 	42SH NAME
