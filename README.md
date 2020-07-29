@@ -1,6 +1,6 @@
-# 42sh
+# myShell
 
-42sh Epitech final year project
+myShell or 42sh is a 1st year Epitech project.
 
 Usage:
 
