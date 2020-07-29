@@ -5,7 +5,7 @@ myShell or 42sh is a 1st year Epitech project.
 Usage:
 
 ```console
-./42sh
+$ ./42sh
 ```
 
 Grade : A
