@@ -8,15 +8,11 @@ It's a command-line interpreter Bash-like.
 </p>
 
 ## Usage:
-Usage:
-```console
-$ ./42sh
-```
 
 ### Installation
 ```
-$>  git clone https://github.com/tcollard/42sh.git
-$>  cd 42sh && make
+$>  git clone https://github.com/AntoinePoisson/myShell.git
+$>  cd myShell && make
 $>  ./42sh
 ```
 
@@ -32,14 +28,13 @@ $>  ./42sh
 	42SH FEATURES
 	Prompt
 
-	 When standard input is a tty, termcaps prompt is available and includes a lot of features:<br/>
-             - CTRL^D : Exit the 42sh<br/>
-             - CTRL^L : Clear the screen<br/>
-	     - CTRL^A : Move to the start of the line<br/>
-	     - CTRL^E : Move to the end of the line<br/>
-             - Right and Left Arrows : Move into command line<br/>
-             - Up and Down Arrows : Brows throught commands history<br/>
-             If standard input is not a tty, termcaps prompt is not available.<br/>
+	 When standard input is a tty, termcaps prompt is available and includes a lot of features:
+             - CTRL^D : Exit the 42sh
+             - CTRL^L : Clear the screen
+             - CTRL^A : Move to the start of the line
+             - CTRL^E : Move to the end of the line
+             - Right and Left Arrows : Move into command line
+             - Up and Down Arrows : Brows throught commands history
 ## Features
   - Prompt with line edition
   - Builtins `alias`, `bg`, `cd`, `echo`, `exit`, `export`, `fg`, `hash`, `jobs`, `set`, `source`, `test`, `type`, `unalias`, `unset`
