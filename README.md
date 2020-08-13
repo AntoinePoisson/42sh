@@ -39,7 +39,6 @@ $>  ./42sh
   - Prompt with line edition
   - Builtins `alias`, `bg`, `cd`, `echo`, `exit`, `export`, `fg`, `hash`, `jobs`, `set`, `source`, `test`, `type`, `unalias`, `unset`
   - Executing simple commands
-  - Execute in background `&`
   - Redirection `>`, `>>`, `<` and `|`
   - Heredoc `<<`
   - Logical operands `&&` and `||`
@@ -48,5 +47,3 @@ $>  ./42sh
   - Environment and local variables `$VAR` or `${VAR}`
   - Command substitution `$(CMD)`
   - Dynamical autocompletion
-  - History (saved in `~/.42sh_history`)
-  - PS1 environment variable to custom shell prompt ([wiki](https://ss64.com/bash/syntax-prompt.html))
