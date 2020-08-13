@@ -2,6 +2,10 @@
 
 myShell or 42sh is a 1st year Epitech project.
 
+<p align="center">
+  <img width="424" height="304" src="/42sh.gif">
+</p>
+
 Usage:
 
 ```console
