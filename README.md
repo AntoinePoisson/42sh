@@ -8,7 +8,6 @@ Usage:
 $ ./42sh
 ```
 
-Grade : A
 
 	42SH NAME
 	42sh - Shell for ninja developers
