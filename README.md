@@ -3,7 +3,7 @@
 myShell or 42sh is a 1st year Epitech project.
 
 <p align="center">
-  <img width="424" height="304" src="/42sh.gif">
+  <img width="424" height="304" src="https://github.com/pscott/42sh/blob/master/42sh.gif42sh.gif">
 </p>
 
 Usage:
