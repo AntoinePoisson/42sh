@@ -1,6 +1,6 @@
 # myShell
 ## Purpose:
-myShell or 42sh is a 1st year Epitech project.
+myShell or 42sh is a 1st year Epitech project.<br/>
 It's a command-line interpreter Bash-like.
 
 <p align="center">
