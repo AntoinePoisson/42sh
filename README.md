@@ -9,7 +9,7 @@ It's a command-line interpreter Bash-like.
 
 ## Usage:
 
-### Installation
+### Installation:
 ```
 $>  git clone https://github.com/AntoinePoisson/myShell.git
 $>  cd myShell && make
